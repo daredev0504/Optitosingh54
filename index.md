@@ -1,16 +1,20 @@
 # My **Profile**
 
 ## Name
-_Adebimpe Peter Oluwadamilare_
+Adebimpe Peter Oluwadamilare
+
 ## E-mail Address
-_tosinghdarey2100@gmail.com_
+tosinghdarey2100@gmail.com
+
 ## SlackUserName
-_Optitosingh54_
+Optitosingh54
+
 ## Tracks
-1. FrontEnd 1
-2. Design 2
+1. FrontEnd 
+2. Design 
+
 ## Courses
-1. HTML 1
-2. CSS 2
-3. JAVASCRIPT 3
-4. UI/UX 4
+1. HTML 
+2. CSS 
+3. JAVASCRIPT 
+4. UI/UX 
