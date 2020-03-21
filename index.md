@@ -1,13 +1,13 @@
 # My **Profile**
 
 ## Name
-Adebimpe Peter Oluwadamilare
+_Adebimpe Peter Oluwadamilar_
 
 ## E-mail Address
-tosinghdarey2100@gmail.com
+_tosinghdarey2100@gmail.com_
 
 ## SlackUserName
-Optitosingh54
+_Optitosingh54_
 
 ## Tracks
 1. FrontEnd 
